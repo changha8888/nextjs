@@ -41,7 +41,7 @@ export default function Post() {
                         <FormBuilder meta={meta} />
                         <Form.Item wrapperCol={{ span: 16, offset: 8 }}>
                             <Button type="primary" htmlType="submit">
-                                Log in
+                                Log in ADMIN
                             </Button>
                         </Form.Item>
                     </Form>
