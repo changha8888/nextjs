@@ -6,7 +6,7 @@ export default function AddNew({}) {
     return (
         <>
             <Link href={`/posts/add`}>
-            <Button type="primary" style={{float: 'right'}} shape="round" icon={<FileAddOutlined />}>Add</Button>
+            <Button type="primary" style={{float: 'right'}} shape="round" icon={<FileAddOutlined />}>Add NEW</Button>
             </Link>
         </>
     )
